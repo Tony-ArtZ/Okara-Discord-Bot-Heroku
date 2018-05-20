@@ -49,6 +49,5 @@ async def WanaRP(ctx):
 @Bot.command(pass_context=True)
 async def PlaySong(ctx):
     await Bot.say("I got some good shit right here!")
-    await Bot.
 
 Bot.run("NDQ3MjgwNDkxMDYyNzU1MzM4.DeFUDg.EnGEiGGJ5cEgyl4Ng9szDzM9JHQ")
